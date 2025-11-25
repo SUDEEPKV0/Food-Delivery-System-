@@ -1,3 +1,8 @@
+![License](https://img.shields.io/badge/license-MIT-green)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![React](https://img.shields.io/badge/React-18-blue)
+![Vite](https://img.shields.io/badge/Vite-Frontend-purple)
+
 # 🍽️ YummPort – Food Delivery Web App
 
 YummPort is a modern, responsive food-delivery web application designed from scratch.  
