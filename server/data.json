@@ -1,0 +1,10 @@
+{
+  "items": [
+    { "id": "p1", "name": "Paneer Butter Masala", "price": 180, "tags": ["vegetarian","rich"], "cuisine": "Indian" },
+    { "id": "p2", "name": "Chicken Biryani", "price": 250, "tags": ["spicy","rice"], "cuisine": "Indian" },
+    { "id": "p3", "name": "Dal Tadka", "price": 140, "tags": ["light","comfort"], "cuisine": "Indian" },
+    { "id": "p4", "name": "Gulab Jamun", "price": 120, "tags": ["sweet","dessert"], "cuisine": "Indian" },
+    { "id": "p5", "name": "Baklava", "price": 220, "tags": ["sweet","nuts"], "cuisine": "Middle Eastern" }
+  ],
+  "orders": []
+}
