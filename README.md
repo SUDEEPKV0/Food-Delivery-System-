@@ -24,14 +24,14 @@ It focuses on clean UI, fast interactions, smooth animations, and a complete foo
 
 ---
 
-## 🛠 Tech Stack
+## 🧰 Tech Stack
 
-- **Frontend:** React + TypeScript + Vite  
-- **UI Framework:** TailwindCSS + shadcn/ui  
-- **Icons:** lucide-react  
-- **Interactions:** motion/react  
-- **Backend (optional):** Node.js + Express  
-- **Database (optional):** MongoDB  
+![React](https://img.shields.io/badge/React-18-61dafb?logo=react&logoColor=000&labelColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?logo=typescript&logoColor=fff)
+![Vite](https://img.shields.io/badge/Vite-Bundler-646cff?logo=vite&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Utility--First-38bdf8?logo=tailwindcss&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-3c873a?logo=node.js&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-4ea94b?logo=mongodb&logoColor=fff)
 
 ---
 
